@@ -1,0 +1,64 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "Block": {
+        "Description": "Block number"
+    },
+    "sound": {
+        "Description": "bolean for sound"
+    },
+    "sound_puretone": {
+        "Description": "bolean for sound"
+    },
+    "sound_bluenoise": {
+        "Description": "bolean for blue noise"
+    },
+    "sound_freq": {
+        "Description": "sound frequency"
+    },
+    "sound_amp": {
+        "Description": "sound amplitude"
+    },
+    "optogenetics": {
+        "Description": "bolean for optogenetics"
+    },
+    "opto_freq": {
+        "Description": "pulse train frequency"
+    },
+    "opto_power": {
+        "Description": "laser power"
+    },
+    "opto_pulse_duration": {
+        "Description": "pulse duration (s)"
+    },
+    "opto_pulse_ts": {
+        "Description": "individual pulses timestamps"
+    },
+    "airpuff": {
+        "Description": "bolean for airpuff"
+    },
+    "airpuff_duration": {
+        "Description": "Airpuff duration (s)"
+    },
+    "airpuff_amp": {
+        "Description": "Airpuff volatge control amplitude (V)"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "trial data and properties"
+    }
+}

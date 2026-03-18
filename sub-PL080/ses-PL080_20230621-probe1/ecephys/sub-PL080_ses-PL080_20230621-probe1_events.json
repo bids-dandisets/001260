@@ -1,0 +1,49 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "sound": {
+        "Description": "bolean for sound"
+    },
+    "match_mismatch": {
+        "Description": "bolean for sound"
+    },
+    "sound_freq1": {
+        "Description": "sound frequency"
+    },
+    "sound_amp1": {
+        "Description": "sound amplitude"
+    },
+    "sound_freq2": {
+        "Description": "sound frequency"
+    },
+    "sound_amp2": {
+        "Description": "sound amplitude"
+    },
+    "valve": {
+        "Description": "valve"
+    },
+    "lick": {
+        "Description": "lick"
+    },
+    "perf": {
+        "Description": "perf"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "trial data and properties"
+    }
+}

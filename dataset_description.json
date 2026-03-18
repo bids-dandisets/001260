@@ -1,0 +1,28 @@
+{
+    "Name": "A Prefrontal Cortex Map based on Single Neuron Activity",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Brain-wide high-density extracellular recordings (Neuropixels) in head-fixed mice during distinct passive listening and auditory behavioral tasks. About half of the recordings are in the prefrontal cortex (PFC) and half from other brain regions (3 cortical and 10 subcortical). In PFC we include 11 subregions: secondary motor area (MOs), anterior cingulate area \u2013 dorsal and ventral part (ACAd, ACAv), prelimbic area (PL), infralimbic area (ILA), orbital area \u2013 medial, lateral, and ventrolateral part (ORBm, ORBvl, ORBl), agranular insular area \u2013 dorsal and ventral part (AId, AIv), and frontal pole (FRP). ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Le Merre, Pierre",
+        "Heining, Katharina",
+        "Slashcheva, Marina",
+        "Jung, Felix",
+        "Moysiadou, Eleni",
+        "Guyon, Nicolas",
+        "Yahya, Ram",
+        "Park, Hyunsoo",
+        "Wernstal, Fredrik",
+        "Carl\u00e9n, Marie"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
