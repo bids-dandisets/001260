@@ -1,44 +1,44 @@
-participant_id	species	sex
-sub-242820	Mus musculus	M
-sub-249939	Mus musculus	F
-sub-249940	Mus musculus	F
-sub-250252	Mus musculus	M
-sub-250253	Mus musculus	M
-sub-250256	Mus musculus	F
-sub-518804+1	Mus musculus	F
-sub-518804+2	Mus musculus	F
-sub-534133	Mus musculus	F
-sub-560169	Mus musculus	F
-sub-560171+1	Mus musculus	F
-sub-560171+2	Mus musculus	F
-sub-708078	Mus musculus	F
-sub-711179	Mus musculus	M
-sub-732713	Mus musculus	F
-sub-732714	Mus musculus	F
-sub-PL026	Mus musculus	F
-sub-PL027	Mus musculus	M
-sub-PL028	Mus musculus	M
-sub-PL030	Mus musculus	M
-sub-PL031	Mus musculus	F
-sub-PL032	Mus musculus	F
-sub-PL051	Mus musculus	F
-sub-PL053	Mus musculus	F
-sub-PL054	Mus musculus	F
-sub-PL055	Mus musculus	M
-sub-PL056	Mus musculus	M
-sub-PL057	Mus musculus	F
-sub-PL062	Mus musculus	F
-sub-PL063	Mus musculus	F
-sub-PL064	Mus musculus	F
-sub-PL066	Mus musculus	M
-sub-PL070	Mus musculus	F
-sub-PL071	Mus musculus	F
-sub-PL076	Mus musculus	F
-sub-PL077	Mus musculus	F
-sub-PL078	Mus musculus	F
-sub-PL079	Mus musculus	M
-sub-PL080	Mus musculus	F
-sub-PL081	Mus musculus	F
-sub-PL082	Mus musculus	F
-sub-PL084	Mus musculus	F
-sub-PL086	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-242820	sub-242820	Mus musculus	M
+sub-249939	sub-249939	Mus musculus	F
+sub-249940	sub-249940	Mus musculus	F
+sub-250252	sub-250252	Mus musculus	M
+sub-250253	sub-250253	Mus musculus	M
+sub-250256	sub-250256	Mus musculus	F
+sub-518804+1	sub-518804_1	Mus musculus	F
+sub-518804+2	sub-518804_2	Mus musculus	F
+sub-534133	sub-534133	Mus musculus	F
+sub-560169	sub-560169	Mus musculus	F
+sub-560171+1	sub-560171_1	Mus musculus	F
+sub-560171+2	sub-560171_2	Mus musculus	F
+sub-708078	sub-708078	Mus musculus	F
+sub-711179	sub-711179	Mus musculus	M
+sub-732713	sub-732713	Mus musculus	F
+sub-732714	sub-732714	Mus musculus	F
+sub-PL026	sub-PL026	Mus musculus	F
+sub-PL027	sub-PL027	Mus musculus	M
+sub-PL028	sub-PL028	Mus musculus	M
+sub-PL030	sub-PL030	Mus musculus	M
+sub-PL031	sub-PL031	Mus musculus	F
+sub-PL032	sub-PL032	Mus musculus	F
+sub-PL051	sub-PL051	Mus musculus	F
+sub-PL053	sub-PL053	Mus musculus	F
+sub-PL054	sub-PL054	Mus musculus	F
+sub-PL055	sub-PL055	Mus musculus	M
+sub-PL056	sub-PL056	Mus musculus	M
+sub-PL057	sub-PL057	Mus musculus	F
+sub-PL062	sub-PL062	Mus musculus	F
+sub-PL063	sub-PL063	Mus musculus	F
+sub-PL064	sub-PL064	Mus musculus	F
+sub-PL066	sub-PL066	Mus musculus	M
+sub-PL070	sub-PL070	Mus musculus	F
+sub-PL071	sub-PL071	Mus musculus	F
+sub-PL076	sub-PL076	Mus musculus	F
+sub-PL077	sub-PL077	Mus musculus	F
+sub-PL078	sub-PL078	Mus musculus	F
+sub-PL079	sub-PL079	Mus musculus	M
+sub-PL080	sub-PL080	Mus musculus	F
+sub-PL081	sub-PL081	Mus musculus	F
+sub-PL082	sub-PL082	Mus musculus	F
+sub-PL084	sub-PL084	Mus musculus	F
+sub-PL086	sub-PL086	Mus musculus	M

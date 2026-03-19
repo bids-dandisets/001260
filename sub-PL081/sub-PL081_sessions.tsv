@@ -1,5 +1,5 @@
-session_id
-ses-PL081+20230620+probe0
-ses-PL081+20230620+probe1
-ses-PL081+20230621+probe0
-ses-PL081+20230621+probe1
+session_id	original_session_id
+ses-PL081+20230620+probe0	ses-PL081_20230620-probe0
+ses-PL081+20230620+probe1	ses-PL081_20230620-probe1
+ses-PL081+20230621+probe0	ses-PL081_20230621-probe0
+ses-PL081+20230621+probe1	ses-PL081_20230621-probe1

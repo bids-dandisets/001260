@@ -1,3 +1,3 @@
-session_id
-ses-PL031+20190524+probe0
-ses-PL031+20190524+probe1
+session_id	original_session_id
+ses-PL031+20190524+probe0	ses-PL031_20190524-probe0
+ses-PL031+20190524+probe1	ses-PL031_20190524-probe1
